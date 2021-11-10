@@ -22,5 +22,7 @@ app.post('/imei_lock', express.json(), async (req, res) => {
   await axios.delete(`/sims/${simId}/tags/${TAG_ID}`)
 
   console.log(`Done setting IMEI lock for ${simId}`)
+
+  res.end()
 })
 app.listen(process.env.PORT || 8145)
