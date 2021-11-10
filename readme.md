@@ -2,6 +2,8 @@
 
 This is example code of how to create a webhooks service that automatically will set the IMEI lock the first time a SIM comes online.
 
+It is used in the Onomondo course [Lock SIM to the first device (IMEI) that used it](https://help.onomondo.com/en/course-lock-sim-to-the-first-imei-that-used-it).
+
 ## Deploy to Heroku
 
 You can easily deploy to Heroku by clicking here
