@@ -11,5 +11,15 @@
     "api",
     "course",
     "example"
-  ]
+  ],
+  "env": {
+    "API_KEY": {
+      "description": "The API key from Onomondo",
+      "value": "MY_API_KEY"
+    },
+    "TAG_ID": {
+      "description": "The tag ID from the 'Never Used' tag",
+      "value": "MY_TAG_ID"
+    }
+  }
 }
