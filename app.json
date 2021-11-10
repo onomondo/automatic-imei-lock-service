@@ -2,7 +2,7 @@
   "name": "Automatic IMEI Lock Service",
   "description": "An Onomondo webhook service that locks a SIM to the first device that used it",
   "repository": "https://github.com/onomondo/automatic-imei-lock-service",
-  "logo": "https://uploads-ssl.webflow.com/5ea878bc45345b7e48c18cb7/5ea8933b65323029e5b90303_homepage-logo.svg",
+  "logo": "https://avatars.githubusercontent.com/u/13015261?s=400&u=6d8ce04aeff9e5e7e438f93918e1cbdc4eba9852&v=4",
   "keywords": [
     "onomondo",
     "imei",
